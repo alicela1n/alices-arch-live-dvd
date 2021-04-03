@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:user
+wheel:x:10:user
+uucp:x:14:user
+user:x:1000:
