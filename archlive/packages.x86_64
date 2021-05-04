@@ -15,6 +15,7 @@ b43-fwcutter
 base
 base-devel
 bind-tools
+binwalk
 brltty
 broadcom-wl
 btrfs-progs
@@ -23,12 +24,14 @@ cdrtools
 chntpw
 chromium
 cifs-utils
+clang
 clonezilla
 cloud-init
 cmake
 colord
 colordiff
 crda
+debian-archive-keyring
 darkhttpd
 ddrescue
 debootstrap
@@ -86,6 +89,7 @@ jfsutils
 k3b
 kate
 kdf
+kile
 kitty-terminfo
 kmon
 konsole
@@ -161,6 +165,7 @@ smbclient
 sof-firmware
 squashfs-tools
 sshfs
+subversion
 sudo
 syslinux
 sysstat
@@ -169,6 +174,7 @@ tcpdump
 terminus-font
 termite-terminfo
 testdisk
+texmaker
 tmux
 udevil
 udftools
