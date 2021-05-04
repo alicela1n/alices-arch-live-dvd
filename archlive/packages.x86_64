@@ -71,6 +71,7 @@ gpm
 gptfdisk
 grml-zsh-config
 grsync
+grub
 gvfs
 hdparm
 htop
