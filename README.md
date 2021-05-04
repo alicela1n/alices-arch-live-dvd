@@ -1,6 +1,10 @@
 # alices-arch-live-dvd
 Alice's Arch Linux Live DVD, complete with KDE Plasma and tons of useful applications and utilities.
 
+# Download a prebuilt iso!
+I have a prebuilt iso on my keybase!
+[Download Link](https://alicela1n.keybase.pub/archlinux-alicela1n-2021.05.04-x86_64.iso)
+
 # Building
 This requires you to have Arch Linux installed on the host which you want to build the iso from
 
