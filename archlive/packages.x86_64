@@ -130,6 +130,9 @@ nilfs-utils
 nmap
 nm-connection-editor
 notepadqq
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
 npth
 nspr
 nss
@@ -182,6 +185,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 usbview
+ubuntu-keyring
 vifm
 vim
 vpnc
